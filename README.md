@@ -1,2 +1,2 @@
 # Meme_Generator
-Meme generator project from scrimba
+Meme generator React project from scrimba
